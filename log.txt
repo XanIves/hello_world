@@ -1,0 +1,45 @@
+commit 630d791119426af8123eca06f899177cdf839229
+Author: XanIves <38440635+XanIves@users.noreply.github.com>
+Date:   Mon Apr 16 16:26:45 2018 -0400
+
+    Update README.md
+
+commit 6d0dd8f0937d53be764c4231fbb508f1e2b2d904
+Author: XanIves <38440635+XanIves@users.noreply.github.com>
+Date:   Mon Apr 16 16:25:46 2018 -0400
+
+    Update README.md
+
+commit d8d17bc165d8445bff3e9c329b56e5d3e070ef24
+Author: XanIves <38440635+XanIves@users.noreply.github.com>
+Date:   Mon Apr 16 16:24:52 2018 -0400
+
+    Update README.md
+
+commit 29c4e150824aa10275ed0d9f67356fef8c867a58
+Author: teddyjaxn <38440702+teddyjaxn@users.noreply.github.com>
+Date:   Mon Apr 16 16:23:19 2018 -0400
+
+    Update README.md
+
+commit eed7d0273ff22b1350fb57c740653a53bf15aca0
+Author: Alexander Ives <xanives@gmail.com>
+Date:   Mon Apr 16 15:48:51 2018 -0400
+
+    Created hello_world.cpp
+    
+    Prints 'Hello World' to the console when run
+
+commit 8e4c33a7f6865dea0df9470c27c9da41f26eccc7
+Author: Alexander Ives <xanives@gmail.com>
+Date:   Mon Apr 16 15:35:55 2018 -0400
+
+    Changed Readme
+    
+    Added 8 required lines for assignment
+
+commit 6106afe34beab4278be67129ebb3daffb04bb272
+Author: Alexander Ives <xanives@gmail.com>
+Date:   Mon Apr 16 15:16:23 2018 -0400
+
+    Initial commit
