@@ -1,6 +1,7 @@
 # hello_world
 
 Alexander Ives
+Teddy Jackson
 April 16th, 2018
 Section MONDAY
 
